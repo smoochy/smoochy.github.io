@@ -30,6 +30,7 @@ section {
 	color: var(--text-color);
 	border-radius: 20px;
 	padding: 0px 0 25px 0;
+	min-width: 360px;
 }
 h2 {
 	padding-top: 15px;
